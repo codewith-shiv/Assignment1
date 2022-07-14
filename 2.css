@@ -1,0 +1,76 @@
+*{
+    background-color: rgb(100, 140, 151);
+   
+}
+
+
+
+
+header{
+    color: rgb(64, 122, 122);
+    background-color: rgb(7, 60, 61);
+    height: 150px;
+    width: 100vw;
+    position: fixed;
+    top:0px;left:0px;
+    
+    
+    
+    
+   
+}
+
+header  h1{
+    font-size: 50px;
+    text-align: center;
+    background-color: rgb(7, 60, 61);
+    
+    
+}
+
+nav a{
+    
+    color: rgb(0, 0, 0);
+    text-size-adjust: ;
+    text-decoration: none;
+    text-justify: auto; 
+    background-color: rgb(7, 60, 61);  
+    font-size: 25px; 
+   
+    
+    
+}
+
+.nav{
+    background-color: rgb(7, 60, 61);
+    word-spacing: 5px;
+    
+}
+
+.books{
+    width: 30vw;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+
+}
+
+a:hover {
+    color: rgb(236, 244, 244);
+    
+
+
+}
+.reviews{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
